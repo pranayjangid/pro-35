@@ -2,8 +2,8 @@ var balloon, background;
 var position, database;
 
 function preload() {
-  backgroundImage = loadImage("images/1.png");  
-  balloonImage = loadAnimation("images/2.png","images/3.png","images/4.png");
+  backgroundImage = loadImage("1.png");  
+  balloonImage = loadAnimation("2.png","3.png","4.png");
 }
 
 function setup(){
